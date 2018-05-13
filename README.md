@@ -1,5 +1,7 @@
 # smokeping.tw
 
+這邊蒐集台灣各單位的 SmokePing 資訊。
+
 ## 單一節點
 
 * https://home.gslin.org/smokeping/
