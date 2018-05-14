@@ -13,4 +13,4 @@
 
 ## 外部連結
 
-* [SmokePing 官方頁面](https://oss.oetiker.ch/smokeping/)
+* [SmokePing](https://oss.oetiker.ch/smokeping/)，SmokePing 的官方網站。
