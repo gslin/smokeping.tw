@@ -13,4 +13,5 @@
 
 ## 外部連結
 
+* [GitHub](https://github.com/gslin/smokeping.tw)，這個站放在 GitHub Pages 上。
 * [SmokePing](https://oss.oetiker.ch/smokeping/)，SmokePing 的官方網站。
