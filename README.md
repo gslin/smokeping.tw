@@ -5,7 +5,7 @@
 ## 單一節點
 
 * [https://home.gslin.org/smokeping/](https://home.gslin.org/smokeping/)
-* [https://rpi.gslin.org/smokeping/](https://rpi.gslin.org/smokeping/)
+* [https://rpi.gslin.com/smokeping/](https://rpi.gslin.com/smokeping/)
 
 ## 組織節點
 
