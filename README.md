@@ -21,4 +21,4 @@
 
 ## 聯絡方式
 
-如果有想要增加 (或是刪除)，可以聯絡 gslin@gslin.org。
+如果有想要增加 (或是刪除)，可以聯絡 gslin@gslin.org，或是發 issue ticket。
