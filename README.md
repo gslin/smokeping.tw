@@ -4,15 +4,14 @@
 
 ## 單一節點
 
+* [https://dftping.dft.idv.tw/](https://dftping.dft.idv.tw/)
 * [https://home.gslin.org/smokeping/](https://home.gslin.org/smokeping/)
 * [https://rpi.gslin.com/smokeping/](https://rpi.gslin.com/smokeping/)
+* [https://smokeping.clarence.tw/smokeping/](https://smokeping.clarence.tw/smokeping/)
 
 ## 組織節點
 
-* [https://dftping.dft.idv.tw/](https://dftping.dft.idv.tw/)
-* [https://smokeping.clarence.tw/smokeping/](https://smokeping.clarence.tw/smokeping/)
 * [https://smokeping.ncse.tw/smokeping/](https://smokeping.ncse.tw/smokeping/)
-* [https://video.openedu.tw/smokeping/smokeping.cgi](https://video.openedu.tw/smokeping/smokeping.cgi)
 
 ## 外部連結
 
