@@ -9,7 +9,9 @@
 
 ## 組織節點
 
-* [https://smokeping.kkbox.com.tw/](https://smokeping.kkbox.com.tw/)
+* [https://dftping.dft.idv.tw/](https://dftping.dft.idv.tw/)
+* [https://smokeping.clarence.tw/smokeping/](https://smokeping.clarence.tw/smokeping/)
+* [https://smokeping.ncse.tw/smokeping/](https://smokeping.ncse.tw/smokeping/)
 * [https://video.openedu.tw/smokeping/smokeping.cgi](https://video.openedu.tw/smokeping/smokeping.cgi)
 
 ## 外部連結
