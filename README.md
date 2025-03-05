@@ -11,6 +11,8 @@
 
 ## 組織節點
 
+* [http://dgcik.asuscomm.com/smokeping/sm.cgi](http://dgcik.asuscomm.com/smokeping/sm.cgi)
+* [https://smokeping.hostinginside.com/](https://smokeping.hostinginside.com/)
 * [https://smokeping.ncse.tw/smokeping/](https://smokeping.ncse.tw/smokeping/)
 
 ## 外部連結
