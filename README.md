@@ -6,6 +6,7 @@
 
 * [https://dftping.dft.idv.tw/](https://dftping.dft.idv.tw/)
 * [https://home.gslin.org/smokeping/](https://home.gslin.org/smokeping/)
+* [https://kennel.gslin.org/smokeping/](https://kennel.gslin.org/smokeping/)
 * [https://rpi.gslin.com/smokeping/](https://rpi.gslin.com/smokeping/)
 * [https://smokeping.clarence.tw/smokeping/](https://smokeping.clarence.tw/smokeping/)
 
